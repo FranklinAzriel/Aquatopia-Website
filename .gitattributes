@@ -1,0 +1,5 @@
+public/favicon.ico filter=lfs diff=lfs merge=lfs -text
+public/logo192.png filter=lfs diff=lfs merge=lfs -text
+public/logo512.png filter=lfs diff=lfs merge=lfs -text
+src/NEKO.webp filter=lfs diff=lfs merge=lfs -text
+src/logo.svg filter=lfs diff=lfs merge=lfs -text
